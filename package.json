@@ -1,6 +1,6 @@
 {
   "name": "simple-color-scale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and lightweight color scale generator Edit",
   "main": "index.js",
   "scripts": {
